@@ -22,4 +22,4 @@ Jeden zespół dla Twojej firmy: od strony i sklepu, przez systemy i automatyzac
 
 ### Kontakt
 
-[hello@designhouse.me](mailto:hello@designhouse.me) · [Umów rozmowę](https://designhouse.me/kontakt) · [O nas](https://designhouse.me/o-nas) · [TikTok](https://www.tiktok.com/@maciejreclaw4)
+[Umów rozmowę](https://designhouse.me/kontakt) · [O nas](https://designhouse.me/o-nas) · [TikTok](https://www.tiktok.com/@maciejreclaw4)
