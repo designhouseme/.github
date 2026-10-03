@@ -13,15 +13,6 @@ Jeden zespół dla Twojej firmy: od strony i sklepu, przez systemy i automatyzac
   <img alt="Animacja z designhouse.me: logo Design House, Otto oprowadza po usługach z cenami, realizacje i opinie" src="https://raw.githubusercontent.com/designhouseme/.github/main/profile/design-house-hero.webp" width="100%">
 </a>
 
-| Dział | Co robimy |
-| --- | --- |
-| [Żywa Strona](https://designhouse.me/zywa-strona) | Strona firmowa, którą prowadzimy za Ciebie. |
-| [Sklepy i serwisy](https://designhouse.me/sklepy-i-serwisy) | Sklep, duży serwis albo portal na miarę. |
-| [Automatyzacje](https://designhouse.me/automatyzacje) | Zapytania, faktury i przypomnienia robią się same. |
-| [Marketing](https://designhouse.me/marketing) | Google Ads, SEO, Meta Ads i kontent. |
-| [Systemy i aplikacje](https://designhouse.me/aplikacje) | Panel zleceń, portal klienta, kalkulator. |
-| [Branding i grafika](https://designhouse.me/branding-i-grafika) | Logo, opakowania, katalogi, kreacje. |
-| [Full House Department](https://designhouse.me/full-house) | Stały zespół na abonament: marketing, automatyzacje, grafika, strony i systemy. |
 
 
 ### Kontakt
