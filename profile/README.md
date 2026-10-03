@@ -19,12 +19,6 @@ Jeden zespół dla Twojej firmy: od strony i sklepu, przez systemy i automatyzac
 | [Branding i grafika](https://designhouse.me/branding-i-grafika) | Logo, opakowania, katalogi, kreacje. |
 | [Full House Department](https://designhouse.me/full-house) | Stały zespół na abonament: marketing, automatyzacje, grafika, strony i systemy. |
 
-### Po godzinach
-
-Projekty z otwartym kodem, które robimy dla siebie ([więcej](https://designhouse.me/po-godzinach)):
-
-- [**FlyChess**](https://github.com/Arkazzae/FlyChess-Thinker) - szachy z mózgiem muszki owocowej. Model działa na prawdziwym konektomie FlyWire, prosto w przeglądarce.
-- [**Vortex dla Linuksa**](https://github.com/Arkazzae/vortex-linux) - nieoficjalny build menedżera modów Vortex z poprawkami pod Wine i Proton.
 
 ### Kontakt
 
