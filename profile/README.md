@@ -9,6 +9,10 @@
 
 Jeden zespół dla Twojej firmy: od strony i sklepu, przez systemy i automatyzacje, po marketing i branding.
 
+<a href="https://designhouse.me/">
+  <img alt="Animacja z designhouse.me: logo Design House, Otto oprowadza po usługach z cenami, realizacje i opinie" src="https://raw.githubusercontent.com/designhouseme/.github/main/profile/design-house-hero.webp" width="100%">
+</a>
+
 | Dział | Co robimy |
 | --- | --- |
 | [Żywa Strona](https://designhouse.me/zywa-strona) | Strona firmowa, którą prowadzimy za Ciebie. |
